@@ -1,49 +1,38 @@
 ---
-name: Bug Report
-about: Report an issue that you're running into
-labels: bug
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-## Checklist
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-- [ ] I've updated to the latest released version of the SDK
-- [ ] I've searched for existing [GitHub issues](https://github.com/facebook/facebook-ios-sdk/issues)
-- [ ] I've looked for existing answers on [Stack Overflow](https://facebook.stackoverflow.com), the [Facebook Developer Community Forum](https://developers.facebook.com/community/) and the [Facebook Developers Group](https://www.facebook.com/groups/fbdevelopers)
-- [ ] I've read the [Code of Conduct](https://github.com/facebook/facebook-ios-sdk/blob/master/CODE_OF_CONDUCT.md)
-- [ ] This issue is not security related and can safely be disclosed publicly on GitHub
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Environment
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-Describe your dev environment here, giving as many details as possible. If you have them, make sure to include:
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-- Xcode Version: `X.X.X`
-- Swift Version: `X.X.X` (if issue is Swift related)
-- Installation Platform & Verison: `[Cocoapods|Carthage|Manual]` version `X.X.X`
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## Goals
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-What do you want to achieve?
-
-## Expected Results
-
-What do you expect to happen?
-
-## Actual Results
-
-What actually happened? Can you provide a stack trace?
-
-## Steps to Reproduce
-
-What are the steps necessary to reproduce this issue?
-
-## Code Samples & Details
-
-Please provide a code sample, as well as any additional details, to help us track down the issue. If you can provide a link to a test project that allows us to reproduce the issue, this helps us immensely in both the speed and quality of the fix.
-
-**Note:** Remember to format your code for readability:
-
-```swift
-// INSERT YOUR CODE HERE
-
-var example = "Example code"
-```
+**Additional context**
+Add any other context about the problem here.
